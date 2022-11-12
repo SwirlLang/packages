@@ -1,7 +1,7 @@
 # Maintainer: 0x454d505459 <testerthe60@gmail.com>
 pkgname=swirl-bin
-pkgver=0.0.1.alpha
-pkgrel=e33169a
+pkgver=0.0.1.alpha.e33169a
+pkgrel=1
 pkgdesc="A High Level, statically typed, Compiled programming language "
 arch=("x86_64")
 url="https://github.com/SwirlLang/Swirl"
