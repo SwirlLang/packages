@@ -15,7 +15,7 @@ provides=("swirl")
 conflicts=("swirl")
 replaces=()
 source=("swirl")
-md5sums=("fb97be32c97ae0629078506023b3803e")
+md5sums=("fb088d6674d97dd3f18c1ffbd6621302")
 
 package() {
 	install -Dm 755 swirl "$pkgdir/usr/bin/swirl"
