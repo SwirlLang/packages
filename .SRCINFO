@@ -1,6 +1,6 @@
 pkgbase = swirl-bin
 	pkgdesc = A High Level, statically typed, Compiled programming language
-	pkgver = 0.0.3.alpha.1
+	pkgver = 0.0.3.alpha.3
 	pkgrel = 1
 	url = https://github.com/SwirlLang/Swirl
 	arch = x86_64
@@ -8,6 +8,6 @@ pkgbase = swirl-bin
 	provides = swirl
 	conflicts = swirl
 	source = swirl
-	md5sums = fb97be32c97ae0629078506023b3803e
+	md5sums = a888b4bcc6e3922e9cbc3134a0bda493
 
 pkgname = swirl-bin
