@@ -1,6 +1,6 @@
 # Maintainer: 0x454d505459 <testerthe60@gmail.com>
 pkgname=swirl-bin
-pkgver=0.0.3.alpha.3
+pkgver=0.0.4.alpha.0
 pkgrel=1
 pkgdesc="A High Level, statically typed, Compiled programming language "
 arch=("x86_64")
@@ -15,7 +15,7 @@ provides=("swirl")
 conflicts=("swirl")
 replaces=()
 source=("swirl")
-md5sums=("a888b4bcc6e3922e9cbc3134a0bda493")
+md5sums=("b10d5e2737c4ec9ce9654434e6c9902f")
 
 package() {
 	install -Dm 755 swirl "$pkgdir/usr/bin/swirl"
